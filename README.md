@@ -1,0 +1,1 @@
+# sqlserver-alter-table-generator
