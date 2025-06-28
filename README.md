@@ -1,1 +1,1 @@
-# sqlserver-alter-table-generator
+SQL Server用のALTER TABLE文を生成するWebツール
